@@ -1,0 +1,70 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+body {
+    background-color: #D8C0C3
+    }
+    
+    header {
+       background: rgba(138, 78, 76, .4);
+       background-position: center;
+     }
+
+    p, ul {
+    font-family: "Comfortaa", sans-serif;
+      font-style: normal;
+      color: #1C0D0D;
+    }
+    
+    h4 {
+      font-family: "Shadows Into Light", cursive;
+      font-weight: 400;
+      font-style: normal;
+      text-decoration: underline;
+      font-size: 1.05em;
+      color: #1C0D0D;
+     }
+    
+    h2 {    
+      font-family: "Yellowtail", cursive;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 1.7em;
+      color: #1C0D0D;
+     }
+
+    h1 {
+        font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.6em;
+    color: #1C0D0D;
+    
+    }
+    
+    ul {
+      list-style-type: disc;
+      list-style-image: url(clapper.png);
+      list-style-position: outside;
+    }
+    
+    a:link{
+        text-decoration: none;
+        color: #7F3C39
+       }
+        
+    a:visited
+        { color: #955F5F}
+
+    a:hover {
+        color: #604B73
+        }
+    
+    a:active {
+        color: #4059AD
+        }
+        
+  .accordion {
+          --bs-accordion-btn-color: #B18788;
+          --bs-accordion-btn-bg: #B18788;
+          --bs-accordion-active-bg: #8A4E4C;
+  }
